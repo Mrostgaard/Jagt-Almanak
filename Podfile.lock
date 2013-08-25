@@ -1,0 +1,13 @@
+PODS:
+  - Appirater (1.0.5)
+  - TWSReleaseNotesView (1.1.1)
+
+DEPENDENCIES:
+  - Appirater
+  - TWSReleaseNotesView (~> 1.1.1)
+
+SPEC CHECKSUMS:
+  Appirater: 5addfe3fac0aa85209b553f894b6b0533152786f
+  TWSReleaseNotesView: 05aaf5bb00a7bde90f3b7185f74a5302f3519acd
+
+COCOAPODS: 0.20.2
